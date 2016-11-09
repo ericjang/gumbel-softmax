@@ -1,0 +1,9 @@
+// Jupyter 2 space indent (move this file to ~/.jupyter/nbconfig/notebook.json
+// if it does not already exist)
+{
+  "CodeCell": {
+    "cm_config": {
+      "indentUnit": 2
+    }
+  }
+}
